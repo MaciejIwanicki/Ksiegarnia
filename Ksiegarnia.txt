@@ -1,0 +1,121 @@
+Ksiêgarnia wysy³kowa 
+ 
+ 
+Agata Niewierkiewicz 
+£ukasz Czeronko 
+Maciej Iwanicki 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cele Projektu 
+Celem Projektu jest stworzenie platformy internetowej, umo¿liwiaj¹cej dystrybucje dzie³ literackich ksi¹¿ek. Platforma ta ma byæ dostêpna na ka¿dym rodzaju przegl¹darek internetowych, oraz na ka¿dym rodzaju urz¹dzenia, tj. PC, tablet, smartfon, laptop, MAC. Ksiêgarnia internetowa to system oferuj¹cy zdalny dostêp oraz mo¿liwoœæ zakupu ksi¹¿ek, czasopism w formie drukowanej jak i cyfrowej. Plusem ksiêgarni internetowej jest brak potrzebnych placówek sprzeda¿y co znacznie redukuje koszty prowadzenia dzia³alnoœci. Obecnie notujemy w naszym kraju wzrost zainteresowania czytelnictwem oraz trudny dostêp do ksiêgarni na terenach wiejskich, jest to idealna sytuacja dla ksiêgarni wysy³kowej poniewa¿ redukuje t¹ lukê. 
+ 
+Korzyœci: 
+-Szybki dostêp do materia³u  
+-Wiele opcji p³atnoœci  
+-Oszczêdnoœæ czasu 
+-Du¿a baza ksi¹¿ek 
+ -Podatnoœæ na sugestie klienta 
+ 
+W swojej ofercie oferuje szeroki dostêp do wydawców polskich jak i zagranicznych. W przypadku zakupu wersji cyfrowej istnieje tak¿e wybór jêzyku danego materia³u co sprawia, ¿e serwis ten jest skierowany te¿ dla ludzi z innych krajów. W celu u³atwienia zakupu produktu w ksiêgarni internetowej oferujemy wiele mo¿liwoœci p³atnoœci jak i dostawy. Oferujemy wysy³kê na terenie ca³ego kraju jak i poza. Mo¿liwy jest te¿ odbiór osobisty w wydzielonych punktach sprzeda¿y. Id¹c z biegiem czasu oferujemy szerokie spektrum p³atnoœci tzn. P³atnoœæ przy pomocy konta bankowego, payplay, przelewy24 i wiele innych. Ksiêgarnia oferuje te¿ zni¿ki przy zamówieniach wiêkszej iloœci danego materia³u oraz na zbieranie punktów rabatowych. Ksi¹¿ki wysy³ane s¹ w ci¹gu 1-2 dni roboczych od momentu zaksiêgowania wp³aty na konto firmy lub wysy³ane nastêpnego dnia w wypadku wysy³ki za pobraniem. W przypadku zamówieñ e-wydañ plik jest gotowy do pobrania z konta klienta od razu po odnotowaniu p³atnoœci. Oferujemy tak¿e mo¿liwoœæ zamawiania tak zwanych "preorderów", czyli mo¿liwoœæ zamówienia danego materia³u jeszcze przed premier¹ a wysy³ka odbywa siê w dniu premiery co oferuje natychmiastowy dostêp do ksi¹¿ki. Mo¿liwy jest te¿ realizacja zamówieñ specjalnych. W przypadku braku danego materia³u, klient mo¿e zg³osiæ to dzia³owi obs³ugi a ten postara siê o domówienie danego materia³u w ci¹gu tygodnia. Pokazanie iloœci dostêpnych materia³ów ( iloœæ ksi¹¿ek i przybli¿ony czas realizacji) 
+ 
+Modu³y 
+Modu³ zarz¹dzania kontami: Modu³ zarz¹dzania klientami s³u¿y do zarz¹dzania kontami klientów. Mo¿na je dodawaæ, usuwaæ, edytowaæ, wyœwietlaæ transakcjê. Istnieje równie¿ mo¿liwoœæ blokady klientów którzy nie wywi¹zali siê z p³atnoœci w wyznaczonym terminie, oraz którzy z³amali regulamin. Do tego modu³u nie ograniczony maj¹ administratorzy oraz dzia³ techniczny. 
+Modu³ zarz¹dzania towarami: W module tym mo¿liwe jest dodawanie nowych towarów, modyfikacja pod wzglêdem atrybutu, usuwanie, ukrywanie do momentu nie obecnoœci w magazynie. Dostêp do tego modu³u maj¹: Administratorzy oraz redaktorzy. 
+Modu³ zarz¹dzania sprzeda¿¹: Modu³ ten odpowiada za sprzeda¿ produktów, anulowanie jej, reklamacje oraz udzielanie rabatów. Dostêp do tego modu³u maj¹ administratorzy, redaktorzy, klienci, dzia³ obs³ugi klienta. 
+Modu³ statystyk: Modu³ ten odpowiada za zbierania statystyk dotycz¹cych klientów, sprzedanych towarów, oraz liczbie odwiedzin na stronie. Pe³ny dostêp do tego modu³y maj¹: Administratorzy, klienci maj¹ dostêp ograniczony.  
+ 
+ 
+Funkcjonalnoœci 
+ 
+1.Rejestracja- Klient wchodzi na stronê ksiêgarni internetowej , nastêpnie naciska przycisk "Zarejestruj siê "umiejscowiony w prawym górnym rogu interfejsu strony. W kolejnej fazie u¿ytkownik wpisujê swoje dane osobowe ( imie, nazwisko, login, has³o, miejsce zamieszkania, adres e-mail, oraz opcjonalnie numer telefonu). Po wprowadzeniu danych u¿ytkownik musi nacisn¹æ przycisk "za³ó¿ konto", po tej operacji system sprawdza poprawnoœæ danych. W razie b³êdów, dane okno zawieraj¹ce b³¹d zostajê podœwietlone na czerwono a ni¿ej pojawia siê opis b³êdu. Gdy ca³a procedura przejdzie pomyœlnie, wysy³any zostaje e-mail aktywacyjny na podany wczeœniej adres klienta. Gdy u¿ytkownik przejdzie na podany adres strony wys³any w emailu procedura rejestracji zostaje zakoñczona. 
+ 
+2.Wyszukanie pozycji- Wyszukanie ksi¹¿ki na stronie mo¿e odbywaæ siê bez wczeœniejszego zalogowania. Okno odpowiedzialne za wyszukiwanie znajduje siê w lewej czêœci interfejsu. Wyszukiwaæ ksi¹¿ki mo¿na na dwie ró¿ne metody. W metodzie podstawowej klient mo¿e wprowadziæ w oknie wyszukania nazwê ksi¹¿ki ,autora albo wydawnictwo. Po wprowadzeniu danych i naciœniêciu przycisku "szukaj" na stroniê pojawiaj¹ siê ksi¹¿ki zawieraj¹ce podan¹ frazê. S¹ one posortowane alfabetycznie. W metodzie zaawansowanego wyszukiwania, u¿ytkownik musi nacisn¹æ podkreœlony przycisk "zaawansowane wyszukiwanie " nastêpnie zostajê przekierowany do strony gdzie mo¿e wpisaæ bardziej dok³adne specyfikacje szukanego przez siebie produktu. Do wyboru ma tytu³, autora, kod paskowy albo numer ISBN, typ oprawy oraz wydawnictwo. Po wprowadzeniu danych u¿ytkownik powinien nacisn¹æ przycisk "szukaj" a nastêpnie zostanie przekierowany na stronê z list¹ pozycji spe³niaj¹ce jego warunki. Dodatkowo w obu opcjach wyszukiwania wystêpujê auto uzupe³nianie. Wpisuj¹c kawa³ek szukanej przez nas frazy, poni¿ej pojawiaj¹ siê mo¿liwe, zgodne z podan¹ czêœci¹ frazy pozycje do wyszukania. 
+ 
+3.Brak dostêpu do konta 
+ 3.1-Gdy u¿ytkownik straci³ dostêp do konta dlatego, ¿e zapomnia³ has³o mo¿e on odzyskaæ do niego dostêp. W oknie logowania pod przyciskiem " Zaloguj siê" znajdujê siê napis "zapomnia³eœ has³a ?". U¿ytkownik po wybraniu tej opcji zostajê przekierowany do podstrony pozwalaj¹cej na restart has³a. U¿ytkownik musi podaæ adres e-mail swojego konta podany podczas rejestracji. Po wprowadzeniu danych nale¿y nacisn¹æ przycisk "resetuj". Po tej operacji na stroniê pojawia siê informacja, ¿e u¿ytkownik powinien sprawdziæ swoj¹ pocztê elektroniczn¹. Dalsza procedura polega na przejœciu w podany link resetuj¹cy has³o zawarty w wczeœniej wys³anym e-mailu. Aby zakoñczyæ procedurê nale¿y na stroniê podanej w linku dwukrotnie wpisaæ nowe has³o oraz nacisn¹æ przycisk "zatwierdŸ" 
+ 
+ 3.2- Brak dostêpu do konta pomimo wprowadzania poprawnych danych. Aby w takiej sytuacji odzyskaæ dostêp do konta u¿ykonik musi przejœæ pod zak³adkê "kontakt" która znajduje siê na g³ównym pasku na stroniê g³ównej. Klient w dalszej czêœci zostaje przekierowany do podstrony zawieraj¹cej formularz zg³oszeniowy. Aby zg³osiæ problem z brakiem dostêpu do konta nale¿y wybraæ opcjê "problemy z kontem" oraz poni¿ej opisaæ swój problem podaj¹c jednoczeœnie swoje dane logowania w tym adres e-mail. Nastêpnie nale¿y nacisn¹æ przycisk "wyœlij". Dzia³ techniczny powinien skontaktowaæ siê z klientem w ci¹gu kilku godzin. W przypadku nie podania potrzebnych danych dzia³ obs³ugowy poprosi o ich uzupe³nienie. 
+ 
+ 4. Anulowanie zamówienia – Aby u¿ytkownik móg³ anulowaæ swoje zamówienie musi na pocz¹tku zalogowaæ siê na stronie g³ównej. Nastêpnie klient powinien nacisn¹æ przycisk ze swoim loginem. Pozwoli to na przejœcie do opcji swojego konta. W opcjach konta nale¿y przejœæ pod zak³adkê " zamówienia". Po wybraniu tej zak³adki na ekranie pojawi¹ siê wszystkie aktualnie realizowane zamówienia oraz ich obecny status realizacji. Anulowanie zamówienia jest mo¿liwe gdy przesy³ka nie ma statusu "wys³any " albo "dostarczony". Gdy pozycja ma status inny ni¿ podane pojawia siê przycisk"anuluj" znajduj¹cy siê po prawej stronie wybranego towaru. U¿ytkownik powinien nacisn¹æ ten przycisk a nastêpnie jeszcze raz potwierdziæ swój wybór. Po tych operacjach towar zostanie usuniêty z listy zamówieñ.  
+ 
+5. Realizacja rabatów- Klient kupuj¹c ksi¹¿ki uzyskuje punkty rabatowe zale¿ne od wydanej kwoty. Suma zebranych punktów rabatowych widoczna jest w profilu konta w zak³adce rabaty. Klient chc¹cy zrealizowaæ rabat powinien podanej wczeœniej zak³adce wybraæ opcjê realizuj rabat. Spowoduje to wygenerowanie unikalnego kodu rabatowego. Kod ten nale¿y wpisaæ podczas sk³adania zamówienia w polu "Rabaty". Kod po u¿yciu zostaje usuniêty i nie mo¿na go ponownie wykorzystaæ 
+ 
+6. Dodawanie ksi¹¿ek do bazy danych – Redaktor ma mo¿liwoœæ dodania ksi¹¿ek do bazy danych, poprzez klikniêcie przycisku dodaj. Podaje dane odpowiedniej ksi¹¿ki tj.( Tytu³, autor, numer ISBN, cena, iloœæ wolumenów). Po wpisaniu danych ksi¹¿ki klika przycisk akceptuj w celu zatwierdzenia dodania produktu, b¹dŸ anuluj, jeœli chce anulowaæ dodawanie. 
+ 
+7. Logowanie u¿ytkownika - U¿ytkownik klika przycisk znajduj¹cy siê w prawym górnym rogu, z napisem zaloguj siê. Wyœwietla siê formularz w którym u¿ytkownik podajê login , lub adres email, oraz has³o. W przypadku nie zgodnoœci system wyœwietla komunikat o b³êdnych danych, po trzech nie udanych próbach system wyœwietla mechanizm captcha. Je¿eli dane s¹ poprawne u¿ytkownik jest zalogowany do systemu. 
+ 
+8. Kupowanie produktu - U¿ytkownik klika przycisk znajduj¹cy siê pod zdjêciem produktu kup teraz, system przenosi u¿ytkownika do podstrony zawieraj¹cej formularz, w którym  u¿ytkownik wprowadza brakuj¹ce dane potrzebne do wysy³ki. Potwierdza aktualny adres, nastêpnie wybiera rodzaj dostarczenia przesy³ki. Dostêpne mo¿liwoœci to, odbiór osobisty, przesy³ka kurierska, oraz przesy³ka kurierska za pobraniem. W  przypadku zaznaczenia pola "p³atnoœæ z góry" system przenosi u¿ytkownika na stronê na której wybierany jest bank klienta. Potwierdzenia zap³aty oraz zamówienia towaru jest generowane automatycznie przez system i wysy³ane klientowi na maila. 
+ 
+9. Kupowanie produktu przez u¿ytkownika nie zalogowanego – Po klikniêciu opcji kup teraz system wyœwietla formularz w którym kupuj¹cy musi wpisaæ swoje dane ( imiê, nazwisko, nr. Telefonu, email, adres, kod pocztowy). Do sprawdzenia poprawnoœci wpisanych danych jest wprowadzony mechanizm captcha. Dalsza czêœæ przebiega podobnie jak w przypadku u¿ytkownika zalogowanego. 
+ 
+10. Reklamacja produktu - U¿ytkownik klika przycisk reklamacja, system wyœwietla formularz zg³oszeniowy, w którym u¿ytkownik wpisujê treœæ reklamacji, w celu wys³ania klika przycisk wyœlij, lub anuluj, je¿eli chcê anulowaæ wysy³anie reklamacji. Serwis jest zobligowany do odpowiedzi w przeci¹gu 24 godzin. 
+ 
+11. Statystki – System generujê dwa rodzaje statystyk: 
+Statystki wewnêtrzne - Ile by³o w miesi¹cu odwiedzin, ile ksi¹¿ek zosta³o zakupionych, jaki rodzaj ksi¹¿ek by³ najczêœciej zamawiany, typ dostawy jaki by³ najczêœciej wybierany. Statystki te s¹ zbierane w celu optymalizacji systemów, s¹ dostêpne dla firm u¿ytkuj¹cych.  
+Statystki zewnêtrzne - System pokazuje ogóln¹ liczbê wyœwietleñ, ile ksi¹¿ek pozosta³o, najlepiej sprzedaj¹ce siê pozycje, s¹ ogólnie dostêpne dla ka¿dego 
+ 
+12. Ocena ksi¹¿ek - U¿ytkownik ma mo¿liwoœæ ocenienia dostêpnych produktów, w postaci klikniêcia iloœci gwiazdek wyœwietlaj¹cej siê pod produktem, w skali od jeden do piêciu, oraz pole tekstowe w celu krótkiego opisu s³ownego mieszcz¹cego siê w iloœci stu znaków. Opcja ta dostêpna jest tylko dla zalogowanych u¿ytkowników.  
+ 
+Typy u¿ytkowników 
+ 
+Administrator – Ma pe³en dostêp do wszystkich funkcjonalnoœci serwisu, mo¿e dodawaæ, usuwaæ u¿ytkowników, blokowaæ, modyfikowaæ konta. Ma pe³en dostêp do baz danych oraz do statystyk. 
+ 
+Redaktor – Ma dostêp do dodawania oraz usuwania produktów, jak i edycji ich. Ma dostêp do baz danych w celu dodawania nowych ksi¹¿ek jak i usuwania nie dostêpnych. Ma równie¿ dostêp do wygl¹du strony, mo¿e zarz¹dzaæ zawartoœci¹ serwisu internetowego.  
+ 
+Dzia³ techniczny – Odpowiada na proœby klientów zwi¹zane z obs³ug¹ konta. Mog¹ edytowaæ wybrane konto, gdy zadania wykracza poza jego kompetencje musi siê zg³osiæ do administratora.  
+Dzia³ obs³ugi klienta – Odpowiada na zapytania klienta w sprawach zwi¹zanych z sprawami takimi jak brak podanej pozycji, opóŸnienia w  wysy³ce i wszelkie inne pytania zwi¹zanej z relacj¹ klient-firma. 
+Klient 
+Zalogowany- £atwiejszy dostêp do kupna, mo¿liwoœæ zbierania punktów rabatowych. Dostêp do koszyka, Mo¿liwoœæ edycji danych osobowych. 
+Nie zalogowany- Przy kupnie musi podaæ pe³ne dane osobowe, Brak mo¿liwoœci zbierania punktów rabatowych. 
+4.Technologie u¿yte  
+Interfejs zostanie wykonany w bootstrap oraz w Angular. Relacja serwisu z baz¹ danych wykonana za pomoc¹ JS. Wykorzystany zostanie te¿ mySQL do bazy danych. 
+5.Przyk³adowy interfejs 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
